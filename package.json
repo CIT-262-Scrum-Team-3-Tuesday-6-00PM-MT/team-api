@@ -1,0 +1,19 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Michael-Anderson-BYUI/byui-personal.git"
+  },
+  "author": "Michael Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michael-Anderson-BYUI/byui-personal/issues"
+  },
+  "homepage": "https://github.com/Michael-Anderson-BYUI/byui-personal#readme"
+}
