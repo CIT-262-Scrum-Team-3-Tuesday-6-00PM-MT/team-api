@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "NodeJS project",
+  "main": "index.js",
+  "scripts": {
+    "hello":"node helloworld.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Michael-Anderson-BYUI/byui-personal.git"
+  },
+  "author": "Michael Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michael-Anderson-BYUI/byui-personal/issues"
+  },
+  "homepage": "https://github.com/Michael-Anderson-BYUI/byui-personal#readme"
+}
