@@ -4,8 +4,11 @@
   "description": "NodeJS project",
   "main": "index.js",
   "scripts": {
-    "hello":"node helloworld.js"
+    "hello": "node helloworld.js",
+    "test": "mocha"
   },
+  "type": "module",
+  
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/Michael-Anderson-BYUI/byui-personal.git"
@@ -15,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Michael-Anderson-BYUI/byui-personal/issues"
   },
-  "homepage": "https://github.com/Michael-Anderson-BYUI/byui-personal#readme"
+  "homepage": "https://github.com/Michael-Anderson-BYUI/byui-personal#readme",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
 }
