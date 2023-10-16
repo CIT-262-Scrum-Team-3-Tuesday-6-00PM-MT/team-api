@@ -1,9 +1,13 @@
 //Michael Anderson
 //Brother Jensen
 //CIT 262
-//30 September 2023
+//16 October 2023
 //Hello World Program
 
-const firstName = "Michael";
+const sayHello=() =>{
+    console.log("hello");
+    return"hello"
+}
 
-console.log("Hello " + firstName);
+//For Manual Testing, Remove for Automated Testing
+sayHello();
